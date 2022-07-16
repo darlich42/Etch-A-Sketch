@@ -1,4 +1,4 @@
 # Etch-A-Sketch
 
-This project will use javascript DOM manipulation to create an Etch-A-Sketch web application.
-I will demonstrate my abilities to use html, css, and javascript in tandem to draw elements on screen.
+This project uses Javascript DOM manipulation to draw a grid using a user prompt. It then modifies the class of the divs created on mouseover, so that you are able to essentially "draw" on the board. 
+
