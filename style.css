@@ -1,4 +1,4 @@
-.container {
+.board {
   display: grid;
   width: 600px;
   height: 600px;
@@ -15,16 +15,18 @@
   justify-content: center;
 }
 
-.grid-lines {
-  border: 1px solid black;
-}
-
 .color {
-  background-color: aqua;
+  background-color: rgb(22, 107, 107);
 }
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
 }
